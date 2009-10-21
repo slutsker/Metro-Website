@@ -4,7 +4,7 @@
     <head>
     <title>Metro Stop Finder</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
-    <link rel="stylesheet" href="jquery-tooltip/jquery.tooltip.css" type="text/css" />
+    <link rel="stylesheet" href="libs/jquery.tooltip.css" type="text/css" />
     <link rel="stylesheet" href="personal.css" type="text/css" />
 	<script type="text/javascript" src="libs/jquery.min.js"></script>
 	<script type="text/javascript" src="libs/date.js"></script>

@@ -127,7 +127,9 @@
 									$metro->get_all_trains_at_stop($_GET['stop'])));
 	}
 	if (isset($_POST['username'])) {
-		echo json_encode($user->login($_POST['username']));
+		if ($_POST['username'] != '') {
+			echo json_encode($user->login($_POST['username']));
+		}
 	}
 	if (isset($_POST['register'])) {
 		echo json_encode($user->register($_POST['register'], $_POST['favorite_stop']));
