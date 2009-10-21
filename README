@@ -1,0 +1,12 @@
+To deploy:
+
+1. Install MySQL, PHP, Apache
+2. Create a database and run dump.sql on it
+3. Create servervars.php, and in it define:
+
+<?php
+  $db_location = 'localhost';
+  $db_username = 'root';
+  $db_password = 'password';
+  $db_name = 'metro';
+?>
