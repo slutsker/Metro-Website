@@ -1,0 +1,77 @@
+fieldset {
+	width: 400px;
+	border: 1px #eee solid;
+	padding: 10px;
+	float: left;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+fieldset#login_fieldset {
+}
+
+div#loggedin_version {
+	display: none;
+}
+
+div#favoriteTrain {
+	margin: 10px;
+}
+
+span#favorite_station {
+	font-weight: bold;
+}
+
+span.train_num {
+	font-size: .95em;
+}
+
+input.nontyping {
+	color: #888 !important;
+}
+
+input.typing {
+	color: #000;
+}
+
+form {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+td {
+	vertical-align: top;
+}
+
+input, select {
+    margin: 5px 0;
+    background-color: white;
+    border: 1px #bbb solid;
+}
+
+a {
+	color: #00c;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table#create_account input, select {
+	margin: 0;
+	padding: 0;
+	width: 250px;
+}
+
+table#create_account input.submit {
+	width: 130px;
+}
+
+table#create_account td {
+	vertical-align: middle;
+}
+
+.current_time {
+	font-weight: bold;
+}
