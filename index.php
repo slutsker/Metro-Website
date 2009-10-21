@@ -6,11 +6,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
     <link rel="stylesheet" href="jquery-tooltip/jquery.tooltip.css" type="text/css" />
     <link rel="stylesheet" href="personal.css" type="text/css" />
-	<script type="text/javascript" src="jquery.min.js"></script>
-	<script type="text/javascript" src="date.js"></script>
-    <script type="text/javascript" src="jquery-tooltip/lib/jquery.bgiframe.js"></script>
-    <script type="text/javascript" src="jquery-tooltip/lib/jquery.dimensions.js"></script>
-    <script type="text/javascript" src="jquery-tooltip/jquery.tooltip.min.js"></script>
+	<script type="text/javascript" src="libs/jquery.min.js"></script>
+	<script type="text/javascript" src="libs/date.js"></script>
+    <script type="text/javascript" src="libs/lib/jquery.bgiframe.js"></script>
+    <script type="text/javascript" src="libs/lib/jquery.dimensions.js"></script>
+    <script type="text/javascript" src="libs/jquery.tooltip.min.js"></script>
     <script type="text/javascript" src="db.js"></script>
     <script type="text/javascript" src="personal.js"></script>
 </head>
